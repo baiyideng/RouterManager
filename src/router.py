@@ -1,6 +1,12 @@
 # -*- coding: utf8 -*-
 #
 #
+#***************************
+#作者：baiyideng"
+#邮箱：baiyideng@outlook.com"
+#博客：baiyideng.tk"
+#授权方式：GPL
+#***************************
 import urllib2
 import base64
 import urllib
