@@ -54,7 +54,6 @@ if __name__ == '__main__':
     print u"*作者：baiyideng"
     print u"*邮箱：baiyideng@outlook.com"
     print u"*博客：baiyideng.tk"
-    print u"*声明：仅供学习交流使用。"
     print u"*----------------------------------"
     print u"*提示：首次使用前请设置好setting.py"
     print u"*----------------------------------"
